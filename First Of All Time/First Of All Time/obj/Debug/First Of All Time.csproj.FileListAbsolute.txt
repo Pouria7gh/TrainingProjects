@@ -1,0 +1,7 @@
+D:\Project C#\First Of All Time\First Of All Time\obj\Debug\First Of All Time.csproj.AssemblyReference.cache
+D:\Project C#\First Of All Time\First Of All Time\obj\Debug\First Of All Time.csproj.CoreCompileInputs.cache
+D:\Project C#\First Of All Time\First Of All Time\bin\Debug\First Of All Time.exe.config
+D:\Project C#\First Of All Time\First Of All Time\bin\Debug\First Of All Time.exe
+D:\Project C#\First Of All Time\First Of All Time\bin\Debug\First Of All Time.pdb
+D:\Project C#\First Of All Time\First Of All Time\obj\Debug\First Of All Time.exe
+D:\Project C#\First Of All Time\First Of All Time\obj\Debug\First Of All Time.pdb
