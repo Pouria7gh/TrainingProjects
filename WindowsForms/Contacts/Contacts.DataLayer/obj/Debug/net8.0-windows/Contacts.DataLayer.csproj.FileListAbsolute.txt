@@ -1,0 +1,45 @@
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.deps.json
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.runtimeconfig.json
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.AssemblyReference.cache
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfoInputs.cache
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfo.cs
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.CoreCompileInputs.cache
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\refint\Contacts.DataLayer.dll
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.genruntimeconfig.cache
+D:\Pouria\Project\New folder\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\ref\Contacts.DataLayer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.deps.json
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.runtimeconfig.json
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfo.cs
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\refint\Contacts.DataLayer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.pdb
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.genruntimeconfig.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\ref\Contacts.DataLayer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.deps.json
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.runtimeconfig.json
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.AssemblyReference.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfoInputs.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.AssemblyInfo.cs
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.csproj.CoreCompileInputs.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\refint\Contacts.DataLayer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.genruntimeconfig.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\ref\Contacts.DataLayer.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\refint\Contacts.DataLayer.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts.DataLayer\obj\Debug\net8.0-windows\Contacts.DataLayer.pdb
