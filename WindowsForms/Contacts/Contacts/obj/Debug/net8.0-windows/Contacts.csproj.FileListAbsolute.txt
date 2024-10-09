@@ -1,0 +1,105 @@
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddContacts.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.GenerateResource.cache
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfoInputs.cache
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfo.cs
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.CoreCompileInputs.cache
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.exe
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.deps.json
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.runtimeconfig.json
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.pdb
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.AssemblyReference.cache
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddUser.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.Up2Date
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\refint\Contacts.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.pdb
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.genruntimeconfig.cache
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\ref\Contacts.dll
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Properties.Resources.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.loginFrm.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Main.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.ChangePass.resources
+D:\Pouria\Project\New folder\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.EditContact.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.AssemblyReference.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddContacts.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddUser.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.ChangePass.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.EditContact.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.loginFrm.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Main.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Properties.Resources.resources
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.GenerateResource.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfoInputs.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfo.cs
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\refint\Contacts.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.pdb
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.exe
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.deps.json
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.runtimeconfig.json
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.pdb
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.Up2Date
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.genruntimeconfig.cache
+C:\Users\Pouri\Desktop\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\ref\Contacts.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.exe
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.deps.json
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.runtimeconfig.json
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.pdb
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\bin\Debug\net8.0-windows\Contacts.DataLayer.pdb
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.AssemblyReference.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddContacts.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AddUser.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.ChangePass.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.EditContact.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.loginFrm.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Main.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.Properties.Resources.resources
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.GenerateResource.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfoInputs.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.AssemblyInfo.cs
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.CoreCompileInputs.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.csproj.Up2Date
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\refint\Contacts.dll
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.pdb
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.genruntimeconfig.cache
+D:\Pouria\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\ref\Contacts.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\refint\Contacts.dll
+C:\Pouria\Programing\Project\Project C#\WindowsForms\Contacts\Contacts\Contacts\obj\Debug\net8.0-windows\Contacts.pdb
