@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\bootstrap\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Projects\\ContactUs-CodeYad\\ContactUs\\wwwroot\\images\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-masthead.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ContactUs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ContactUs.props",
+      "PackagePath": "build\\ContactUs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactUs.props",
+      "PackagePath": "buildMultiTargeting\\ContactUs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ContactUs.props",
+      "PackagePath": "buildTransitive\\ContactUs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

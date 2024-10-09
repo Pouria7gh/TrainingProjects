@@ -1,0 +1,39 @@
+﻿@model List<ContactUs.Models.Message>
+@{
+    int counter = 1;
+}
+<div class="row" id="form-row">
+    <div class="col-11 mt-5 mx-auto">
+        <div class="card">
+            <div class="card-header">
+                <p class="my-auto py-2">Messages</p>
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered table-hover w-100 text-center">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Subject</th>
+                            <th>Fullname</th>
+                            <th>Message</th>
+                            <th>Email</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@counter</td>
+                                <td>@item.Subject</td>
+                                <td>@item.Fullname</td>
+                                <td>@item.MessageBody</td>
+                                <td>@item.Email</td>
+                            </tr>
+                            counter++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

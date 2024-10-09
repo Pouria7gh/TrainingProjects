@@ -1,0 +1,37 @@
+﻿@model ContactUs.Models.Message
+@{
+    ViewData["Title"] = "Contact Us";
+}
+<div id="form-row" class="row align-items-center justify-content-center">
+
+    <div id="contact-card" class="card">
+        <div class="card-header text-center">
+            <span class="display-4">Contact Us</span>
+        </div>
+        <div class="card-body px-4">
+            <form action="Home/SendMessage" method="post">
+                <div class="row mb-3">
+                    <label for="Fullname" class="mx-0 px-0">Fullname:</label>
+                    <input asp-for="Fullname" type="text" class="form-control">
+                </div>
+                <div class="row mb-3">
+                    <label for="Email" class="mx-0 px-0">Email:</label>
+                    <input asp-for="Email" type="email" class="form-control">
+                </div>
+                <div class="row mb-3">
+                    <label for="Subject" class="mx-0 px-0">Subject:</label>
+                    <input asp-for="Subject" type="text" class="form-control">
+                </div>
+                <div class="row mb-3">
+                    <label for="Email" class="mx-0 px-0">Your Message:</label>
+                    <textarea asp-for="MessageBody" class="form-control"></textarea>
+                </div>
+                <div class="row mb-3">
+                    <input type="submit" value="Send" class="btn btn-primary btn-">
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</div>
