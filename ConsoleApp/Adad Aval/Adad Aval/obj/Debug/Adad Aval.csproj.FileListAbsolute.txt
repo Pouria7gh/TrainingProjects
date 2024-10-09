@@ -1,0 +1,11 @@
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.csproj.AssemblyReference.cache
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.csproj.CoreCompileInputs.cache
+D:\Project C#\Adad Aval\Adad Aval\bin\Debug\Adad Aval.exe.config
+D:\Project C#\Adad Aval\Adad Aval\bin\Debug\Adad Aval.exe
+D:\Project C#\Adad Aval\Adad Aval\bin\Debug\Adad Aval.pdb
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.exe
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.pdb
+D:\Project C#\Adad Aval\Adad Aval\bin\Debug\Adad Aval.exe.manifest
+D:\Project C#\Adad Aval\Adad Aval\bin\Debug\Adad Aval.application
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.exe.manifest
+D:\Project C#\Adad Aval\Adad Aval\obj\Debug\Adad Aval.application
